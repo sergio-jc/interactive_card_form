@@ -45,6 +45,9 @@
         text-transform: uppercase;
     }
     @media (min-width:1440px){
+        font-size: 1em;
+        left: 150px;
+        
         &__logo {
             width: 86px;
             margin-bottom: 55px;
@@ -71,8 +74,9 @@
         padding-right: 10px;
     }
     @media (min-width:1440px){
-        top: 400px;
+        top: 430px;
         font-size: 1em;
+        left: 230px;
         &__cvc{
             padding: 34px;
             font-size: 20px;

@@ -76,6 +76,10 @@ body {
   text-transform: uppercase;
 }
 @media (min-width: 1440px) {
+  .card {
+    font-size: 1em;
+    left: 150px;
+  }
   .card__logo {
     width: 86px;
     margin-bottom: 55px;
@@ -123,8 +127,9 @@ body {
 }
 @media (min-width: 1440px) {
   .card-back {
-    top: 400px;
+    top: 430px;
     font-size: 1em;
+    left: 230px;
   }
   .card-back__cvc {
     padding: 34px;
